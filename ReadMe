@@ -1,0 +1,29 @@
+
+
+Project Name:- Automation Exercies 
+
+Project Description:- This project verifies the Test Cases mentioned in the Test Cases Tab which is 
+					  Present on the "Automation Exercise" site itself (https://automationexercise.com/)
+					  By using Selenium with Java
+
+Framework name:- Selenium with Java
+
+Repository link:- https://github.com/Pratik-9K/Automation-Excercise.git
+
+Folder structure:- 
+- src
+  - main
+    - java
+      - project2AutoExcercise
+            - BaseClass.java (Verifies the TCs of creating credentials)
+            - Upto10.java (Verifies the TCs of Homepage for Login)
+            - Upto10Test.java
+            - Upto15.java
+            - Upto15Test.java
+            - Upto20.java
+            - Upto20Test.java
+            - Upto26.java
+            - Upto26Test.java
+            - Upto5.java
+            - Upto5Test.java
+            - ContactUs
